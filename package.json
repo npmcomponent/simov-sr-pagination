@@ -1,17 +1,13 @@
 {
-    "name": "sr-pagination",
-    "version": "1.0.1",
-    "description": "Simple pagination generator.",
-    "author": {
-        "name": "simo",
-        "email": "simeonvelichkov@gmail.com"
-    },
-    "license": "MIT",
-    "keywords": ["pagination", "paginator", "pager"],
-    "homepage": "http://github.com/simov/sr-pagination/",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/simov/sr-pagination.git"
-    },
-    "main": "./lib/pagination"
+  "name": "simov-sr-pagination",
+  "description": "Simple pagination generator.",
+  "version": "1.0.0",
+  "keywords": [
+    "pagination",
+    "paginator",
+    "pager"
+  ],
+  "main": "lib/pagination.js",
+  "dependencies": {},
+  "license": "MIT"
 }
